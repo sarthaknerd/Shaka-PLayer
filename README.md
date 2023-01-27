@@ -17,7 +17,7 @@ To use Shaka Player with IMA Ads, you will need to:
 
 Please refer to the documentation and sample code provided in the Shaka Player Github repository for more detailed instructions on how to use the player with IMA Ads.
 
-🔗 Shaka Player is continuously updated, for the most recent version please check the official website https://shaka-player-
+🔗 Shaka Player is continuously updated, for the most recent version please check the official website.
 
 🚨 Note: It's important to check the IMA SDK and Shaka Player's license compatibility before implementation.
 # 🚀 Tech Stack
